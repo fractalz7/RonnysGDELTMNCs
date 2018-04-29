@@ -1,0 +1,2 @@
+# RonnysGDELTMNCs
+exploration POC project
